@@ -405,7 +405,7 @@ img,img:hover,img:focus{
 }
 .navbar-brand{
 	margin-top:10px;
-	padding-left:0px;
+	padding-left:5px;
 }
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
